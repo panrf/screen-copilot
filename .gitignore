@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 运行产物（截图不应入库：可能含屏幕上的敏感信息）
+*.png
+*.jpg
+shot*.png
+*.log
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
